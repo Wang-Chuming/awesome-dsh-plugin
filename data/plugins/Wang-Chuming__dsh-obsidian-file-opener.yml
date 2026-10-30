@@ -1,5 +1,5 @@
-url: https://github.com/Wang-Chuming/dsh-obsidian-bridge
-name: Wang-Chuming/dsh-obsidian-bridge
+url: https://github.com/Wang-Chuming/dsh-obsidian-file-opener
+name: Wang-Chuming/dsh-obsidian-file-opener
 category: ui
 description:
   en: 'Plain click on an Obsidian vault file in the DSH conversation opens it in the Obsidian app, while Cmd/Ctrl-click keeps the in-app preview; the open_in_obsidian tool lets the agent jump to a note, and every open is confined to the configured vaultRoot.'
